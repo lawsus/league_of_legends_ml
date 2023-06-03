@@ -4,7 +4,7 @@ Blog post [here](https://medium.com/@lawsus/total-gold-prediction-in-league-of-l
 
 ### [data](data)
 * data_857.csv contains data from 857 matches
-* [data.csv](https://www.kaggle.com/datasets/lawsus/lolstats) contains data from 8792 matches
+* [kaggle link](https://www.kaggle.com/datasets/lawsus/lolstats) contains data from 8792 matches
 * data 0-8 is data.csv split into chunks of 1000 for easier data collection
 * matches.json contains matchIds of 8792 matches collected from 160 high elo players on the NA server
 
